@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "BrasilBank",
+    "balance": 700
+  },
+  {
+    "id": 2,
+    "name": "CEBank",
+    "balance": 500
+  }
+]

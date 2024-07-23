@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "accountId": 1,
+    "amount": 750,
+    "type": "credit",
+    "data": "2024-07-20T19:09:58.300Z"
+  },
+  {
+    "id": 2,
+    "accountId": 2,
+    "amount": 120,
+    "type": "credit",
+    "data": "2024-07-20T19:36:03.938Z"
+  }
+]
